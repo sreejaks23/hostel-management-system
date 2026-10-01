@@ -68,7 +68,7 @@ const Login = () => {
         </p>
         <div className="mt-6 text-xs text-gray-400 text-center leading-relaxed">
           Demo accounts (after running the seed script):<br />
-          admin@hostel.com / staff@hostel.com / resident@hostel.com — password123
+          admin@hostel.com / staff@hostel.com / jane@hostel.com — password123
         </div>
       </div>
     </div>
